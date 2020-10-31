@@ -1,0 +1,9 @@
+C:\Users\Fernando\source\repos\DebtCalc\DebtCalc.Database\bin\Debug\DebtCalc.Database.dacpac
+C:\Users\Fernando\source\repos\DebtCalc\DebtCalc.Database\bin\Debug\DebtCalc.Database.dll
+C:\Users\Fernando\source\repos\DebtCalc\DebtCalc.Database\bin\Debug\DebtCalc.Database.pdb
+C:\Users\Fernando\source\repos\DebtCalc\DebtCalc.Database\obj\Debug\Model.xml
+C:\Users\Fernando\source\repos\DebtCalc\DebtCalc.Database\obj\Debug\refactor.xml
+C:\Users\Fernando\source\repos\DebtCalc\DebtCalc.Database\obj\Debug\postdeploy.sql
+C:\Users\Fernando\source\repos\DebtCalc\DebtCalc.Database\obj\Debug\predeploy.sql
+C:\Users\Fernando\source\repos\DebtCalc\DebtCalc.Database\obj\Debug\DebtCalc.Database.dll
+C:\Users\Fernando\source\repos\DebtCalc\DebtCalc.Database\obj\Debug\DebtCalc.Database.pdb

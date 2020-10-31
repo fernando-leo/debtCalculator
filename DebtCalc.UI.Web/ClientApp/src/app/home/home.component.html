@@ -1,0 +1,21 @@
+<ul class="bg-primary text-light">
+  <li>Data de Vencimento</li>
+  <li>Quantidade de Parcelas</li>
+  <li>Valor Original</li>
+  <li>Qtd Dias Atraso</li>
+  <li>Valor Juros</li>
+  <li>Valor Final</li>
+  <li>Valor de cada Parcela</li>
+  <li>Data de Vencimento de cada parcela</li>
+</ul>
+<ul *ngFor="let debt of debts">
+  <li>{{debt.OriginalDate}}</li>
+  <li>{{debt.Installments}}</li>
+  <li>{{debt.OriginalValue}}</li>
+  <li>{{debt.OriginalDate}}</li>
+  <li>{{debt.InterestType}}</li>
+  <li>{{debt.FinalValue}}</li>
+  <li>{{debt.FinalValue / debt.Installments}}</li>
+  <li>{{debt.EachDate / debt.Installments}}</li>
+</ul>
+<div>Telefone de orientação para ligar e negociar com um colaborador: {{phone}}</div>
